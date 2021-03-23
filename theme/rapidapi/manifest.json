@@ -1,0 +1,38 @@
+{
+	"name": "RapidAPI Chrome Theme",
+	"description": "🐙 RapidAPI's Google Chrome Browser theme.",
+	"manifest_version": 2,
+	"version": "0.0.1",
+	"icons": {
+		"16": "images/icon/icon-16.png",
+		"48": "images/icon/icon-48.png",
+		"96": "images/icon/icon-96.png",
+		"128": "images/icon/icon-128.png"
+	},
+	"theme": {
+		"images": {
+			"theme_frame": "images/theme_frame.png",
+			"theme_toolbar": "images/theme_toolbar.png",
+			"theme_tab_background": "images/theme_tab_background.png",
+			"theme_ntp_background": "images/theme_ntp_background.png"
+		},
+		"properties": { "ntp_background_alignment": "bottom", "ntp_background_repeat": "no-repeat" },
+		"colors": {
+			"frame": [29, 67, 113],
+			"ntp_background": [29, 67, 113],
+			"toolbar": [30, 40, 63],
+			"tab_text": [255, 255, 255],
+			"bookmark_text": [170, 175, 183],
+			"tab_background_text_incognito": [255, 255, 255],
+			"tab_background_text": [206, 214, 224],
+			"tab_background_text_incognito_inactive": [206, 214, 224],
+			"ntp_text": [206, 214, 224],
+			"frame_inactive": [29, 67, 100],
+			"frame_incognito": [29, 67, 130],
+			"frame_incognito_inactive": [50, 50, 110]
+		},
+		"tints": {
+			"buttons": [0.64, 0.74, 0.76]
+		}
+	}
+}
