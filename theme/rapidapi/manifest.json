@@ -16,7 +16,10 @@
 			"theme_tab_background": "images/theme_tab_background.png",
 			"theme_ntp_background": "images/theme_ntp_background.png"
 		},
-		"properties": { "ntp_background_alignment": "bottom", "ntp_background_repeat": "no-repeat" },
+		"properties": {
+			"ntp_background_alignment": "bottom",
+			"ntp_background_repeat": "no-repeat"
+		},
 		"colors": {
 			"frame": [29, 67, 113],
 			"ntp_background": [29, 67, 113],

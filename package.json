@@ -1,19 +1,19 @@
 {
 	"name": "rapidapi-google-chrome-theme",
-	"version": "0.3.4",
-	"description": "🦄 Shades of Purple — A professional theme with hand-picked & bold shades of purple for Google Chrome Browser.",
+	"description": "🐙 RapidAPI's Google Chrome Browser theme.",
+	"version": "0.0.1",
 	"license": "MIT",
-	"repository": "ahmadawais/shades-of-purple-google-chrome",
+	"repository": "ahmadawais/rapidapi-google-chrome-theme",
 	"author": {
 		"name": "Ahmad Awais",
 		"email": "me@AhmadAwais.com",
 		"url": "https://twitter.com/MrAhmadAwais"
 	},
 	"keywords": [
-		"shades of purple",
+		"RapidAPI",
 		"chrome",
 		"theme",
-		"purple"
+		"blue"
 	],
 	"files": [
 		"theme"
@@ -21,7 +21,7 @@
 	"scripts": {
 		"format": "prettier --write \"./**/*.{js,json}\"",
 		"prezip": "find . -name '*.pak' -type f -delete >/dev/null 2>&1 && find . -name '*.zip' -type f -delete >/dev/null 2>&1",
-		"zip": "cd ./theme/shades-of-purple/ && zip -r ./../shades-of-purple.zip . -x '.*' -x '__MACOSX' -x 'Cached Theme.pak' >/dev/null 2>&1"
+		"zip": "cd ./theme/rapidapi/ && zip -r ./../rapidapi.zip . -x '.*' -x '__MACOSX' -x 'Cached Theme.pak' >/dev/null 2>&1"
 	},
 	"devDependencies": {
 		"prettier": "^2.0.5"
