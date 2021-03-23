@@ -18,7 +18,7 @@ node_modules/
 *.tgz
 *.map
 *.pak
-*.zip
+# *.zip
 *.pem
 
 # Logs and databases #
