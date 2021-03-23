@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://chrome.google.com/webstore/detail/ljeonhoonibcofjepiphcekbihoiaife">
-    <img src="[./theme/rapidapi/images/logo.png](https://github.com/ahmadawais/rapidapi-google-chrome-theme/raw/master/.github/logo.png)" alt="Logo rapidapi-google-chrome-theme" width="500">
+    <img src="https://github.com/ahmadawais/rapidapi-google-chrome-theme/raw/master/.github/logo.png" alt="Logo rapidapi-google-chrome-theme" width="500">
   </a>
 </div>
 <h1 align="center">RapidAPI Theme for Google Chrome</h1>
