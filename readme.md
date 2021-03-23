@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://chrome.google.com/webstore/detail/ljeonhoonibcofjepiphcekbihoiaife">
+  <a href="https://github.com/ahmadawais/rapidapi-google-chrome-theme">
     <img src="https://github.com/ahmadawais/rapidapi-google-chrome-theme/raw/master/.github/logo.png" alt="Logo rapidapi-google-chrome-theme" width="500">
   </a>
 </div>
