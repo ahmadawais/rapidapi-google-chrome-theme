@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://chrome.google.com/webstore/detail/ljeonhoonibcofjepiphcekbihoiaife">
-    <img src="[./theme/rapidapi/images/logo.png](https://github.com/ahmadawais/rapidapi-google-chrome-theme/raw/master/.github/logo.jpg)" alt="Logo rapidapi-google-chrome-theme" width="500">
+    <img src="[./theme/rapidapi/images/logo.png](https://github.com/ahmadawais/rapidapi-google-chrome-theme/raw/master/.github/logo.png)" alt="Logo rapidapi-google-chrome-theme" width="500">
   </a>
 </div>
 <h1 align="center">RapidAPI Theme for Google Chrome</h1>
@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-[![RapidAPI Google Chrome Download](https://img.shields.io/badge/DOWNLOAD-%20Chrome%20Theme-gray.svg?colorA=2D2B55&colorB=4627E6&style=flat)][c]  [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW%20@MRAHMADAWAIS-gray.svg?colorA=4627E6&colorB=4627E6&style=flat)](https://twitter.com/mrahmadawais/)
+[![RapidAPI Google Chrome Download](https://img.shields.io/badge/DOWNLOAD-%20Chrome%20Theme-gray.svg?colorA=1D283F&colorB=1D4371&style=flat)][c]  [![Follow @MrAhmadAwais on Twitter](https://img.shields.io/badge/FOLLOW-@MRAHMADAWAIS-gray.svg?colorA=1D283F&colorB=1D4371&style=flat)](https://twitter.com/mrahmadawais/)
 
 </div>
 
