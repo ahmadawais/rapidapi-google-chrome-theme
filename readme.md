@@ -20,11 +20,15 @@
 
 <!-- - **RECOMMENDED**: [Download from Google Chrome Store][c] -->
 
+<em><small>I've submitted a the theme to Google Chrome extensions store. So, a link for that should appear as soon as it's approved.</small></em>
+
 <!-- - **OR**: Use the [unpacked version](./theme/rapidapi) -->
-  1. Navigate to `chrome://extensions`
-  2. Enable `Developer mode` <small>(top-right corner)</small>
-  3. Click on <kbd>Load unpacked</kbd> button <small>(top-left corner)</small>
-  4. Select the [`theme/rapidapi`](./theme/rapidapi) folder and done
+  1. Download the  [`theme/rapidapi`](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fahmadawais%2Frapidapi-google-chrome-theme%2Ftree%2Fmaster%2Ftheme%2Frapidapi) directory
+  2. Navigate to `chrome://extensions`
+  3. Enable `Developer mode` <small>(top-right corner)</small>
+  4. Click on <kbd>Load unpacked</kbd> button <small>(top-left corner)</small>
+  5. Select the downloaded [`theme/rapidapi`](./theme/rapidapi) directory
+  6. And you're done. What else? Tweet about this, maybe?!
 
 <br>
 
